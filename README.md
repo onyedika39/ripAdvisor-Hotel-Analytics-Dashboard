@@ -2,6 +2,10 @@
 
 Dashboard project analyzing hotel listings, user demographics, traveler preferences, and hotel service patterns from TripAdvisor-style data.
 
+## Project Type
+
+Data analytics and business intelligence portfolio project.
+
 ## Objective
 
 This project is organized as a portfolio case study to show the full analysis workflow: understanding the business problem, preparing the data, exploring patterns, building the final output, and communicating insights clearly.
@@ -41,4 +45,5 @@ The README uses the corrected TripAdvisor title while keeping the original repos
 ## Author
 
 Created by Michael Kenechukwu as part of a data analytics and business intelligence portfolio.
+
 
