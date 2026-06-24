@@ -1,106 +1,43 @@
-# TripAdvisor-Hotel-Analytics-Dashboard
-## Overview
-This TripAdvisor Hotel Analytics Dashboard provides key insights into hotel listings, user demographics, traveler preferences, and hotel services. The dashboard aims to help hospitality businesses and analysts understand hotel performance, traveler behavior, and the most popular accommodations.
+﻿# TripAdvisor Hotel Analytics Dashboard
 
-## Key Metrics
-🔹 General Hotel Statistics
-Total Hotels Analyzed: 21
+Dashboard project analyzing hotel listings, user demographics, traveler preferences, and hotel service patterns from TripAdvisor-style data.
 
-Total Number of Rooms Across Hotels: 2,196
+## Objective
 
-Average User Score: 4.123
+This project is organized as a portfolio case study to show the full analysis workflow: understanding the business problem, preparing the data, exploring patterns, building the final output, and communicating insights clearly.
 
-Average Reviews per User: 48.13
+## Business Questions
 
-## Hotel Services Breakdown
-Analyzed hotels offer different combinations of services such as Free WiFi, Exercise Rooms, Clubs, and Basketball Courts.
+- What hotel listing patterns are visible?
+- How do traveler preferences differ across categories?
+- What insights can support hospitality decision-making?
 
-13 hotels provide a combination of Free WiFi & Clubs, making it the most common offering.
+## Tools Used
 
-## User Demographics by Continent
-North America: 295 users
+- Dashboard design
+- CSV data analysis
+- Hospitality analytics
+- Business intelligence
 
-Europe: 118 users
+## Preview
 
-Oceania: 41 users
+![Project visual](<Trip Advisor.jpg>)
 
-Asia: 36 users
+## Repository Contents
 
-South America: 7 users
-
-Africa: 7 users
-
-## Hotel Ratings Distribution
-5-star hotels: 8
-
-4-star hotels: 5
-
-3-star hotels: 4
-
-3.5-star hotels: 3
-
-4.5-star hotels: 1
-
-## Users by Period of Stay
-Sep - Nov: 126 users
-
-Dec - Feb: 124 users
-
-Mar - May: 128 users
-
-Jun - Aug: 126 users
-
-The distribution shows relatively even travel patterns throughout the year.
-
-## Traveler Type Breakdown
-Couples: 214
-
-Families: 110
-
-Friends: 82
-
-Business Travelers: 74
-
-## Top 10 Hotels by Total Rooms
-The Venetian Las Vegas Hotel - 4,027 rooms
-
-Excalibur Hotel & Casino - 3,981 rooms
-
-Bellagio Las Vegas - 3,933 rooms
-
-Circus Circus Hotel & Casino Las Vegas - 3,773 rooms
-
-Caesars Palace - 3,348 rooms
-
-The Palazzo Resort Hotel Casino - 3,068 rooms
-
-Monte Carlo Resort & Casino - 3,003 rooms
-
-The Cosmopolitan Las Vegas - 2,995 rooms
-
-Paris Las Vegas - 2,916 rooms
-
-Treasure Island - TI Hotel & Casino - 2,884 rooms
-
-## Technologies Used
-Tableau – For data visualization and dashboard creation.
-
-TripAdvisor Data – Data was sourced from TripAdvisor for analysis.
+- `README.md`
+- `Trip Advisor.jpg`
+- `tripadvisor_hotels_file.csv`
+- `tripadvisor-logo.png`
 
 ## How to Use
-Open the Tableau dashboard.
 
-Analyze hotel ratings, user demographics, and traveler types to identify key trends.
+Review the dashboard image and supporting hotel dataset.
 
-Use the hotel service analysis to determine which amenities are most common.
+## Professional Notes
 
-Explore the seasonal trends to see when most travelers visit.
+The README uses the corrected TripAdvisor title while keeping the original repository name unchanged.
 
-Identify the top-performing hotels based on room availability and user reviews.
+## Author
 
-## Future Enhancements
-Sentiment Analysis on Hotel Reviews to understand customer opinions.
-
-Price vs Rating Analysis to determine value-for-money hotels.
-
-Comparison of Hotel Chains to see how brands perform.![Trip Advisor](https://github.com/user-attachments/assets/a718ee3b-1570-4553-9f2a-f743cc05905b)
+Created by Michael Kenechukwu as part of a data analytics, business intelligence, and machine learning portfolio.
